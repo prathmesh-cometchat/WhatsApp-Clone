@@ -1,0 +1,24 @@
+PODS:
+  - CometChatCallsSDK (4.0.6):
+    - CometChatWebRTC (= 1.106.1)
+  - CometChatSDK (4.0.43)
+  - CometChatWebRTC (1.106.1)
+
+DEPENDENCIES:
+  - CometChatCallsSDK (= 4.0.6)
+  - CometChatSDK (= 4.0.43)
+
+SPEC REPOS:
+  trunk:
+    - CometChatCallsSDK
+    - CometChatSDK
+    - CometChatWebRTC
+
+SPEC CHECKSUMS:
+  CometChatCallsSDK: 121b36c761d5f244cc9608c44a15a2a8c02ee877
+  CometChatSDK: aef868cd0190b76c2ce352127e9894b7a4f650b4
+  CometChatWebRTC: c08f446967168f6de442b48b824623411651dbb5
+
+PODFILE CHECKSUM: cfcaf53d43c43c0c4099ef974fe2733353c3c7f9
+
+COCOAPODS: 1.15.2
